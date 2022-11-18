@@ -1,0 +1,16 @@
+name: census-google_trends-matcher
+channels:
+    - defaults
+dependencies:
+    - matplotlib
+    - numpy
+    - imageio
+    - scikit-learn
+    - notebook
+    - pandas
+    - scipy
+    - ipywidgets
+    - tqdm
+    - statsmodels
+    - jupyterlab
+    - pip
